@@ -1,0 +1,7 @@
+# aws-cdk["aws_stepfunctions","aws_stepfunctions_tasks"]
+# aws-cdk
+ipython
+pydantic
+pytest
+pytest-mock
+stepfunctions
